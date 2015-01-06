@@ -1,7 +1,14 @@
 MachineLearn-Source
 ===================
 
-####[Scikit-learn](https://github.com/Machine-Learn/scikit-learn): Python语言编写的开源机器学习库
+
+
+
+
+
+##Scikit-learn
+-----
+[Python语言编写的开源机器学习库](https://github.com/Machine-Learn/scikit-learn)
 
 	scikit-learn是一个用于机器学习的Python模块，其具有操作简单、效率高、无访问限制、BSD开源协议等等特征，在机器学习这一块是比较受欢迎的。    
 
@@ -58,3 +65,13 @@ scikit-learn 经过测试之后可以运行在 Python 2.6、Python 2.7 和 Pytho
 
 [MachineLearn Website](https://coursera.org)  
 [MachineLearn 在线课程](https://class.coursera.org/ml-005/lecture/preview)
+
+
+##新闻
+-----
+
+[Linux的10大半自动机器人](http://code.csdn.net/news/2823214)
+[人工智能和机器学习领域有哪些有趣的开源项目](http://code.csdn.net/news/2822818)  
+[守卫浏览器安全的5个开源App](http://code.csdn.net/news/2822757)  
+[谷歌为鼓励开发Android TV游戏，推开源应用Pie Noon](http://code.csdn.net/news/2822743)
+[酷炫3D桌面BumpTop现已隆重开源](http://code.csdn.net/news/2822318)
